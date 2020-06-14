@@ -1,6 +1,6 @@
 body{
-    background-image: url(../images/home.png);
-    background-attachment: fixed;
+    	background-image: url(../images/home.png);
+    	background-attachment: fixed;
 	background-size: 100%;
 	font-family: Baskerville Old Face;
 	margin: 0 auto;
@@ -15,14 +15,14 @@ header{
 	width: 85%;
 	background-color: black;
 	position: fixed;
-    top: 0;
-    z-index: 999;
+    	top: 0;
+    	z-index: 999;
 }		
 .logo img{
 	float: left;
 	margin-left: 5px;	
-    width: 90%;
-    margin-top: 5px;
+    	width: 90%;
+    	margin-top: 5px;
 }
 .logo{
 	width: 6%;
