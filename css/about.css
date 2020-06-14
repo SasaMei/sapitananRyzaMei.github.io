@@ -19,7 +19,7 @@ marquee{
 
 }
 section.abouts{
-    background-image: url(images/bgabout.jpg);
+    background-image: url('../images/bgabout.jpg');
     background-size: 100%;
     width: 84%;
     height: 600px;  
